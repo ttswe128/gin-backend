@@ -1,0 +1,25 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary
+*.test
+
+# Output of the go coverage tool
+coverage.out
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Environment files (never commit secrets)
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
